@@ -1,3 +1,3 @@
 # Ludsaves
 
-Click [here](https://github.com/Spikatrix/ludsaves/tree/backups) to see the backup save files
+The list above are the backup files. Enjoy
